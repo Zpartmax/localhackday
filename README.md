@@ -3,3 +3,4 @@
 ## Colaboradores::
 
 - Omar Jair Purata 
+- Eduardo Torres
